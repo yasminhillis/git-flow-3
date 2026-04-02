@@ -9,6 +9,7 @@ export default function page() {
     <div>
       <Navbar />
       <HeroSection />
+      <Testimonial />
     </div>
   );
 }
