@@ -17,21 +17,7 @@ import GhezwanSection from "@/components/organisms/GhezwanSection";
 export default function page() {
   return (
     <div>
-      <HeroSection />
-      <Navbar />
-      <FAQSection/>
-      <Ahmed />
-      <AboutSection />
-      <PortfolioSection />
-      <BahaaSection />
-      <ContactSection />
-      <Testimonial />
-      <Eslam />
-      <ServiceSection />
-      <TeamSection />
-      <StatisticsSection />
-      <CardSection />
-      <GhezwanSection />
+      page
     </div>
   );
 }
